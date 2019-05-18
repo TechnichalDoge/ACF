@@ -78,8 +78,7 @@ ACF_defineGun("140mmAL", {
 		propweight = 28
 	}
 } )
-		
---[[
+
 ACF_defineGun("170mmAL", {
 	name = "170mm Autoloading Cannon",
 	desc = "The 170mm can shred an average 40ton tank's armor with one magazine.",
@@ -96,5 +95,3 @@ ACF_defineGun("170mmAL", {
 		propweight = 34
 	}
 } )
-]]--
-
